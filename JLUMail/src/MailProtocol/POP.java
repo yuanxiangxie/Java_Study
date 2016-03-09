@@ -1,5 +1,6 @@
 package MailProtocol;
 
-public class POP {
-
+public class POP 
+{
+	
 }
